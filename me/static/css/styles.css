@@ -1,0 +1,14 @@
+#head{
+  font-weight:bold;
+  text-decoration: underline solid purple;
+  border-bottom: 2px;
+}
+#icon{
+  font-size:60px;
+}
+html{
+  scroll-behavior: smooth;
+}
+#about{
+  margin:10px;
+}
